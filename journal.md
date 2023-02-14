@@ -1,5 +1,6 @@
-14/02/2023
-Started this journal and Git repo to document the process of my M21 project about identity and chatGPT. I am still very much figuring out how this Github works. 
+14/02/2023 - 
+Started this journal and Git repo to document the process of my M21 project about identity and chatGPT. I am still very much figuring out how this Github works. I based this repo on Pipin's one for it is as if doing work and going over his paper. 
+
 Process so far: 
 
 “Stimulate Discussion about the Ethical Implications of Emulating another Human using Chatbot Technology”.
@@ -40,4 +41,4 @@ Process:
 Documentation GR process with Github for structure 
 
 
-Next steps: I should get working on a draft planning and lit framework
+Next steps: I should get working on a draft planning and lit framework, as well as to work out these objectives more
