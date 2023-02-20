@@ -12,6 +12,7 @@ i am orgnizing my thoughts in the following Miro board: Miro board (https://miro
 
 There is one paper I didn't get to yet, as well as that I want to look into FB enforcing against manipulated media, Stable diffusion and more Zizek
 
+### edit: yo what if I would let DALLe and chatGPT run my instragram absed on the best Instagram strategy for shits and giggles? Could be a fun side project ##
 ## Entry 20/02/23 ##
 
 I kinda crashed and burned after a classical episode of wanting too much and pushing it too far. This week is supposedly literature week. By the end of this week I will have supposed to have:
