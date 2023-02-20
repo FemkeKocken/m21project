@@ -1,3 +1,21 @@
+## Entry 20/02/23 ##
+
+I kinda crashed and burned after a classical episode of wanting too much and pushing it too far. This week is supposedly literature week. By the end of this week I will have supposed to have:
+
+ - create clusters 
+ - answers the following: 
+	- Why is emulating other humans problematic? 
+	- What is technically possible? 
+	- What can be done within the span of this research and my skills? 
+	- WWWWH
+  - Write draft of related works section 
+
+So far I have explored some non-acadmic sources on Chatgpt and find that useful terms are openAI and language models. I found a tutorials as how to train models and create discord bots as well by **Adrian Twarog**
+
+Markup is going better. 
+
+End goal of today: find academic sources. parameters are: papers on chatgpt, identity theft, chatgpt and legal issues, language models and identity, general info on language models, info on building/training models. 
+
 ## Entry 15/02/23 ##
 
 Restarting this Journal after some help of Shrahrom. Thanks Shrahrom. 
