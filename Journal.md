@@ -1,5 +1,19 @@
 ## Entry 20/02/23 ##
 
+I have found some initial papers and worked my way through them. So far I am learning:
+- how chatgpt classifies 
+- what the important words are 
+- some basics on how the program works 
+- pros and cons. 
+
+I keep think about Slavoj Žižek on Synthetic Sex and "Being Yourself". (https://www.youtube.com/watch?v=7xYO-VMZUGo&ab_channel=BigThink)
+
+i am orgnizing my thoughts in the following Miro board: Miro board (https://miro.com/app/board/uXjVPlPDJHE=/)
+
+There is one paper I didn't get to yet, as well as that I want to look into FB enforcing against manipulated media, Stable diffusion and more Zizek
+
+## Entry 20/02/23 ##
+
 I kinda crashed and burned after a classical episode of wanting too much and pushing it too far. This week is supposedly literature week. By the end of this week I will have supposed to have:
 
  - create clusters 
