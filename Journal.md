@@ -6,7 +6,7 @@ As an extra goal for this week I want to write 1 or 2 paragraphs about the class
 When the book is in, I will have to make work of the ethical framework as t not get lost in interesting philosophy related plotholes. 
 For this framework I will have to describe the ethical framework and what are interesting bits in there. 
 
-For today I want to read more on GAI and make more Miro board entries. 
+For today I have done some more general lit review, and dove into Data foundry (https://df-staging.id.tue.nl/)
 
 ## Entry 20/02/23 ##
 
