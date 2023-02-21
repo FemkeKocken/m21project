@@ -1,3 +1,13 @@
+## Entry 21/02/23 ##
+
+Meeting with Max, if your readin this, hi Max!
+
+As an extra goal for this week I want to write 1 or 2 paragraphs about the classification and basic workings of GAI and ChatGPT. I have planned this for tomorrow when I'm sharp. 
+When the book is in, I will have to make work of the ethical framework as t not get lost in interesting philosophy related plotholes. 
+For this framework I will have to describe the ethical framework and what are interesting bits in there. 
+
+For today I want to read more on GAI and make more Miro board entries. 
+
 ## Entry 20/02/23 ##
 
 I have found some initial papers and worked my way through them. So far I am learning:
