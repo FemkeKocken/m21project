@@ -1,3 +1,37 @@
+## Entry 22/02/23 ##
+
+Have not started on the paragraphs just yet. However I am reading into the AI war and I think I can now describe the Who and the What questions: 
+- What? 
+	- Generative artificial Intelligence 
+		- text
+			- ChatGPT
+				- Runs on GPT-3 
+			- Google BARD 
+		- photo
+			- Dall-E
+		- video 
+			- Deep fakes 
+			-
+		- speech 
+			- text to speech and vice versa 
+- Who?
+	 - Microsoft 
+	 	- OpenAI
+			- made multiple NLPs
+				- Dall-E
+				- ChatGPT
+	 - Google
+		- Google Brain
+		- Anthropic
+		- Deepmind 
+			- LamDA (NLP)
+				- BARD
+				
+- Why? 
+	- War on AI. Google's first real threat in 20 years, will probably revolutionize the way search engines are being used. From a monetary standpoint this is interesting because technologies like these are a zero sum game, a flywheel that gets set in motion by gaing users, gaining their data, optimizing and gaining more. Microsoft is rushing to get as many users onboard through implementing ChatGPT into Bing, dethroning Google's Chrome. However the technology is capable of much much more. This is going to be an enty into the ethics I think. 
+
+I think I need to iron out further how the components come together, but I think it sketches a picture. 
+	
 ## Entry 21/02/23 ##
 
 Meeting with Max, if your readin this, hi Max!
