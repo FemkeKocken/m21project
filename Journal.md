@@ -1,3 +1,13 @@
+## Entry 23/02/23 ##
+
+Slightly less project productive day. I have a lot going on with the move and such. 
+Did explore some more non-academic sources that do start to float around the why question. 
+The first people are weirded out by the emotions that it is displaying, and I myself, am wondering about what a weird blend GAI is between human intelligence and the timeless, limitless void of data that the web has become. NLP and GAI, are not human. They are more than human in my personal opinion. 
+
+I was also thinking of making a video parody of the silicon girl tech bosses promoting matches with GAI, taking all your data , using all data available to create the perfect user experience. Would definitly be fun to play the unnerving proffesional girlboss tech CEO
+
+I'll have to start writing some things down tomorrow and update for next week. 
+
 ## Entry 22/02/23 ##
 
 Have not started on the paragraphs just yet. However I am reading into the AI war and I think I can now describe the Who and the What questions: 
