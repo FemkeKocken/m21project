@@ -1,3 +1,69 @@
+## Entry 24/02/2023 ##
+
+I have the following structure down, but it needs work as well as it should be converted into actual text: 
+
+- Generative AI, what is it 
+	- MLM
+	- NLP
+		- GPT 
+		- DALLe
+		- Google Bard 
+- How does it work 
+	- AI 
+		- Machine learning 
+		- Deep learning 
+		- NLP 
+- What is unique about it 
+	- Major strides in GAI after the publication of the Google paper
+	- We now have programs that can interpret language (don’t need keyword based search) 
+	- Enormous databank of information 
+	- Answers in coherent and informative language 
+
+- The war on AI and the major stakeholders 
+	- Microsoft (moves quick but has little users)
+		- OpenAI
+			- made multiple NLPs
+			- Dall-E
+				- ChatGPT
+	- Google (moves slow but has a large user base) 
+		- Google Brain
+		- Anthropic
+		- Deepmind
+			- LamDA (NLP)
+				- BARD
+	- Goal: to win the zero sum game of getting users, gaining their data, perfect the program and attract more users. 
+
+- Why should I care? 
+	- People are weirded out by the fact that ChatGPT and LamDA can express emotions and started questioning their humanity 
+	- Data is being used 
+	- homonitization of the internet
+	- black boxed assistant and non-explained decisions 
+	- 
+- Why is emulating other humans problematic?
+	- People are weired out by expressed emotions of these programs and question their humanity 
+
+- What is technically possible?
+	- At the moment GAI is able to pretend it to be something based on information it can find on the web. Since it’s intelligence in based on a human intelligence as well as it’s output format in human speech it will be as if a human is pretending to be something. 	
+	- NLP can also express emotions. 
+	- Publically available GAI are to some extend censored in not being able to talk about certain topics, gets confused about lying, and will make certain option unavailable after certain trigger words. 
+	- Downside is that it is trained on human data with biases 
+	- Downside is that it online models can start eating their own shit by training on their own data output 
+	- Create personalized responses 
+
+- What can be done within the span of this research and my skills?
+	- It is possible to make Discord bots 
+	- Prototype of the therapist 
+	- Design fictions 
+	
+- WWWWH
+	- Who? Google, Microsoft, their companies, their products 
+	- What? GAI
+	- Why? Data, hominization, unexplained black box decision making, the question of humanity 
+	- When? In the next 5 years the first systems will come out in the next ten they should be adapted I think  
+	- How? Gaining users quickly, using their data to perfect the system, optimize the product, gain more users (flywheel) 
+
+Ohter than that, I am dealing with hosuing issues again. Next week will probably be couchsurfing. I hope I can keep productivity up. 
+
 ## Entry 23/02/23 ##
 
 Slightly less project productive day. I have a lot going on with the move and such. 
