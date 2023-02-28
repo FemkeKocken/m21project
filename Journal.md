@@ -1,3 +1,17 @@
+## Entry 28/02/2023 ##
+
+After an emmergency move, I am now urban survaviling in an apartment turned office turned makeshift apartment again. Lost some days of work, and a part of my sanity of it, but things seem to have stabilized again. Goals for this week: 
+
+Week 9:
+- Write about related works and set up methodology
+- What should the reader know about this subject?
+- What are we going to do exactly?
+- Write related works section
+
+For today I have done some ethical reading. I find that in terms of ethics/design one interesting note is that the current hot debate is that these LLM's and GAI are human/consious but I find that these technologies are in fact MORE than human. In the sense that they seem transhuman or maybe posthuman? They have a different sense of temporarity and memory. It could be interesting to design with that in mind. 
+
+I hope the ethics book will come in, in the meanwhile I could re explore the Whale and the Reactor. Until that time I should spend my time writing out a draft related works and start discussing a plan. This current idea of more-than-human LLMs would fit the objective of the projects. Which is very cool. 
+
 ## Entry 24/02/2023 ##
 
 I have the following structure down, but it needs work as well as it should be converted into actual text: 
