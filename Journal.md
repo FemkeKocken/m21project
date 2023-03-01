@@ -1,3 +1,18 @@
+## Entry 01/03/23 ##
+
+Wrote down 2 paragraphs. wow. No but seriously, I can't really recall a time when I wrote down actully usefull stuff this early in the project. I think the fridge in the office broke. So idk how long I'll be able to camp here. I think today is Wednesday, I should be able to write tomorrow as well, discuss text and the more-than-human idea with Max, and see if I can set something up with Rilla. I might have to adapt the planning a bit as well because I am exhausted and I not nearly done with my slumlord. 
+
+The text: 
+
+Introduction
+
+In 2022 OpenAI launched ChatGPT, a Large Language Model (LLM) running on GPT3. Unique about this software was that it can interpret language, therefore doesn’t need keywords, has an enormous data bank to reference and can answer in coherent and informative texts (source: yt video aiwar). ChatGPT has become the fastest-growing app to date. Having surpassed the 100 million mark in January 2023, 14 months after its release (OpenAI source). The model is mostly used as a chatbot, where people ask questions, but it can also write texts, songs, poems, articles and reports that are, for the most part, indistinguishable from human-written text. Models for text generation and image generation have already won from humans in small art contests. (SOURCE). Major stakeholders in the development of LLM and Generative Artificial intelligence (GAI), are OpenAI, Google Deep Mind, Microsoft and Google. In 2023 Microsoft alone invested 10 billion USD in OpenAI alone ( https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html#:~:text=The%20tech%20giant%20aims%20to,with%20its%20partnership%20with%20OpenAI ). Proving to be that GAI is an incredibly powerful tool, developing at an enormous speed. It is yet to be determined what role it will play in everyday life, but there are already some first issues arising regarding integrity, impersonation and the conscience of these, and the use of, these models. 
+
+Explain GAI
+
+GAI is a collective term of AI that is able to generate content output. This output can be in the form of text, video, images and audio. The content itself is generated, or made, by the system and did not exist beforehand. Currently there are multiple popular programs, each specialized in their own output. For example OpenAI DALL-e can generate images based on text input, GPT3 can output coherent text such as songs and poems, Faceapp can edit people into media, also known as deep faking, human voice can be mimicked as well as generated such as vocaloids like Hatsune Miku.utilizing VOCALOID6 ( https://www.vocaloid.com/en/#:~:text=VOCALOID6%20is%20an%20AI%2Dbased,to%20express%20your%20vocal%20ideas.  ).  Diving a bit deeper into GAI with text output, you see a field of competing LLMs, the most popular, likes ChatGPT, Google BARD and Dalton use Natural Language Processing. Meaning that they are able to interpret human input, not relying on keywords. 
+
+
 ## Entry 28/02/2023 ##
 
 After an emmergency move, I am now urban survaviling in an apartment turned office turned makeshift apartment again. Lost some days of work, and a part of my sanity of it, but things seem to have stabilized again. Goals for this week: 
