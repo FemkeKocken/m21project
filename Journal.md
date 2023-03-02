@@ -1,3 +1,13 @@
+## Entry 02/03/2023 ##
+
+Got some more sleep and feel more human. Note to self: prioritize lower Maslov pyramid layers first, and do not (let anyone) mess with them. 
+
+Wrote down 2 more paragraphs. I aim to have a draft done late Saturday afternoon. Note to self: it's okay if the draft is shitty. 
+
+Had a meeting with Max, he likes the work, make sure I visit the studio and move towards design activities soon. Possibly a design sprint to get things going. Importance on communicating how someone else would experience what I am trying to get across. Make sure to send Max invitations for meeting with Rilla so he can join aswell. 
+
+I'm trying to keep track of the writing process in a seperate file now. We'll see how that goes. 
+
 ## Entry 01/03/23 ##
 
 Wrote down 2 paragraphs. wow. No but seriously, I can't really recall a time when I wrote down actully usefull stuff this early in the project. I think the fridge in the office broke. So idk how long I'll be able to camp here. I think today is Wednesday, I should be able to write tomorrow as well, discuss text and the more-than-human idea with Max, and see if I can set something up with Rilla. I might have to adapt the planning a bit as well because I am exhausted and I not nearly done with my slumlord. 
