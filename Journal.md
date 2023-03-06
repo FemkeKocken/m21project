@@ -1,3 +1,11 @@
+## Entry 06/03/23 ##
+Today I started working again. I straight up couldn't find the motivation to work on the draft theory, so I have made the decision to leave it for now instead of waisting more days progesting. I have started working on the cultura instead. What I have done is that I have foudn a company culture canvas to give me some inspiration. Source: https://www.fearlessculture.design/blog-posts/the-culture-design-canvas 
+
+I found that this actually helped me in sketching an interesting future, based on Renee's concepts on the ustopia. I would love to explore this further tomorrow, but I have to spend some time and energy on some personal paperwork and the move. 
+
+![image](https://user-images.githubusercontent.com/50365794/223215042-e31d133f-03eb-4d1f-b024-32aa7c7fc467.png)
+
+
 ## Entry 02/03/2023 ##
 
 Got some more sleep and feel more human. Note to self: prioritize lower Maslov pyramid layers first, and do not (let anyone) mess with them. 
