@@ -1,3 +1,42 @@
+## Entry 16/03/2023 ##
+
+I have succesfully moved into my new apartment, and I took a day off to go to the spa and get my back and my mind straight. It worked. So now it's back to business. Looking at my planning I have the following activities to catch up on from last week: 
+
+- Cultura
+- Analogies & Metaphors
+- Synethics
+- Future Visioning
+- Persona
+
+and the following that need to be done this week (narrowing down on a design concept): 
+
+- Define the problem
+- Lo-fi making
+- Collage
+- Storyboard
+- Written scenario
+- Define a concept
+- List of requirements
+
+I found that my story does set an interesting direction to explore; perhaps this research is about exploring the symbiotic(?) relation between natural and artificial intelligence. There are already shard of ideas floating around that topic in my head. Max said he liked the thoughprovoking dystopian feel of the story. Which is a compliment I gladly take. 
+
+For today I think I can set out to do the analogies & metaphors, maybe synethics, and some persona's (based on the story). 
+
+## Lost Entry ##
+
+I think I did not upload one entry... I am missing my less deranged story, which is much better: 
+
+*The Use of a Human*
+
+It was interesting to see how quickly we fell into illiteracy. For most of history, most people were of course illiterate, except for the wealthy. It was precisely that wealth that made most illiterate once again. Major strides were made in the 2000s and onwards, from the first chatbots to the first Large Language Models in the 2020s. It took some 50 years for writing to lose its utility, in the same way horses did after the introduction of the automobile. Since writing was now delegated to the computational models, it was not particularly hard to reverse the trick and let them read as well. What followed were a couple years of upheaval. The margins of most jobs became much smaller, and most people were getting squeezed out of their jobs.
+The economy of the 2020s was not ideal, to say the least. The Squeeze had already started. The American Dream turned into a feverish haze of freelance contracts, having multiple employers at all times, and changing said employers at least once a year as the pressure was crushing and the competition high. It was the perfect opportunity for Generative Artificial Intelligence to be employed on a wide scale. Since the skills required for particular jobs were varied and applicants wanted to send out resumes to as many jobs as possible, why not throw all of your skills, degrees and past experiences in the generative blender and let it compose and send out uniquely fitting resumes to future employers? It would level the playing field to some extent as it was already common knowledge that most resumes won’t be read by human eyes, but by models, scanning for the right keywords.
+
+People adopted the use of those keywords into their speech as well. That was what language has evolved into, keywords. Grammar started to get simplified, and language itself slowly turned into universal homologized blurts of word chunks spoken from human throat to, mostly, machine interfaces. Human contact became rare. As most people did not have the luxury of meeting another human anymore. Centralized workplaces had been phased out as there was simply no need for them as work now mostly consisted of the right input of keywords at the right time as well as the fact the employees were changing companies so quickly now that neither employer nor employee knew exactly who was working for whom. So long as the revenue was going up and wages paid it should surely be okay, right?
+
+However, is it really that useful to have to invest in a workforce that is prone to error, bias, disease and death? Blurting the right keywords, at the right time at the right interface is a perfect setup for even lower-tier artificial systems. Slowly places of work rose again, but these were now places without physical doors. It was the realized tower of Babel humming towards the skies, not in language but in code, incomprehensible to the human ear. To the human eye, they were towers of modems, computers, wires, air conditioning, and not a single coffee machine, all receiving input, calculating, generating output and transferring it as new input.
+The few people that benefitted from this were more often than not those who were able to connect their computational property to their physical likeness. Not their physical body, but more, the human ability to own things. Things like personal names, and more importantly, the bank accounts connected to those names. While these owners were overlooking some beautiful sunset at some exotic end of the world, the only thing that bothered them was that primary existential problem humanity now had to solve once more: What is the use of a human?
+
+
 ## Entry 07/03/2023 ##
 
 I wrote a very deranged story about a possible future where AI took over: 
