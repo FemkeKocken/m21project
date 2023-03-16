@@ -22,6 +22,13 @@ I found that my story does set an interesting direction to explore; perhaps this
 
 For today I think I can set out to do the analogies & metaphors, maybe synethics, and some persona's (based on the story). 
 
+I also feel like this project is hitting differently because of this system as well as the more structured approach of having set out a more reasonable and actionable plan. Where in the past I would get lost more easily in the literature and activities, I feel like I have more of a grip over it. I think this also has to do with the fact that I see the step I have ahead of me, so I now that I need to get there even if it means I have to half-ass the current step. Up until now it feels like I have been half-assing almost every single step. Like this meme: 
+
+![image](https://user-images.githubusercontent.com/50365794/225652255-1cb555b3-2c37-402a-abbb-3a2f5624bf6d.png)
+
+But hey, at least I am actually getting things on paper, activities done and I feel like the project has a forward traction. If this project is the half finished horse meme, my previous project would have been an empty sheet. So there, even if it's a shitty horse, at least something is on the paper, and it's not my job to asses the quality of the shitty horse, that's up to my assessors 
+
+
 ## Lost Entry ##
 
 I think I did not upload one entry... I am missing my less deranged story, which is much better: 
