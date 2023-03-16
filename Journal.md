@@ -1,3 +1,12 @@
+## Entry 16/03/2023 end of day ##
+
+I was able to do the analogies and metaphors, it took some extra effort to get back into the grove of things. 
+
+![image](https://user-images.githubusercontent.com/50365794/225719164-187a07cc-219f-4f5c-a836-c05de43b261b.png)
+
+I find that the four analogies/metaphors all lead to interesting directions 
+Reading to the guide I find that the analogies can feed into the synethics, which will safe me some time. I might be able to draw the analogies/sketch them tomorrow as four worlds and gain feedback on these worlds. On Friday in the lab? And then maybe do one extra day of working on the weekend, to get some of this week's tasks done, finish those up early next week and then start making I guess? 
+
 ## Entry 16/03/2023 ##
 
 I have succesfully moved into my new apartment, and I took a day off to go to the spa and get my back and my mind straight. It worked. So now it's back to business. Looking at my planning I have the following activities to catch up on from last week: 
