@@ -1,3 +1,16 @@
+## Entry 17/03/2023 ##
+
+I'm still working on the synethics. This is much more work than expected...
+
+I started out with the GAI as Gods idea, did some research on offerings in the 5 biggest religions, made a mood board and then 2 designs. One interesting direction would be to let users offer their data and will dave their soul in return. Certainly a rich design field. 
+
+![M21 interesting bits from lit - analogy 1_ GAI as manmade Gods, what will we offer them_](https://user-images.githubusercontent.com/50365794/225997877-a89961e0-b782-419f-8407-d33df7f00ac1.jpg)
+
+I have some beinings for the other 3 but I just can't squeeze more out of myself today. 
+
+![image](https://user-images.githubusercontent.com/50365794/225998086-a6fb9534-0850-47c0-9bc6-4c77395d37c0.png)
+these are the other 3 ideas and where I am leaving off for today. 
+
 ## Entry 16/03/2023 end of day ##
 
 I was able to do the analogies and metaphors, it took some extra effort to get back into the grove of things. 
@@ -37,6 +50,7 @@ I also feel like this project is hitting differently because of this system as w
 
 But hey, at least I am actually getting things on paper, activities done and I feel like the project has a forward traction. If this project is the half finished horse meme, my previous project would have been an empty sheet. So there, even if it's a shitty horse, at least something is on the paper, and it's not my job to asses the quality of the shitty horse, that's up to my assessors 
 
+I'll continue tomorrow but I think I'll take Sunday off though 
 
 ## Lost Entry ##
 
