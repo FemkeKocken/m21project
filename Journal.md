@@ -1,3 +1,15 @@
+## Entry 18/03/2023 ##
+
+Started where I left of yesterday. working out the Synethics. I started with the GAI and reality one. I thought of reality warping designs and what an interesting economy would be utilizing GAI. The idea rolled out remarkably easy. Sell people back their and non-excisting memories. Smart cities and personal data would easily provide enough data and GAI could do the rest in fabricating and mimicking memories. I like the intimacy of Please hold and the phone in general. I also thought about those 17th century shell stilllifes of people showing off exotic (sometimes non-existent shells). Et voilà. I like the disturbing loss of control over something as intimate as your memories, the economic idea behind it and the pun; shelling back your memories. 
+
+![image](https://user-images.githubusercontent.com/50365794/226123842-59aa0f67-299a-40b4-abf9-90325e4e2beb.png)
+
+I then continued with my favourite idea so far, what would humans do all day. Started of by comparison to the horse, an analysis of the function of horses. I like how they embody a connection to nature as well as a historical time capsule. Temporality, recontextualization and natural fallacies some of the few things GAI is not capable of. Though I already kinda knew that. Not sure what to design here... Might revisit this with a clear mind. 
+
+![image](https://user-images.githubusercontent.com/50365794/226123975-39039ee5-916d-4249-8c9d-1234937559b5.png)
+
+I should start a concept development map I think, this might be getting messy soon. No work on the fourth and final analogy yet though. 
+
 ## Entry 17/03/2023 ##
 
 I'm still working on the synethics. This is much more work than expected...
