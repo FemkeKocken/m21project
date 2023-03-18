@@ -1,5 +1,8 @@
 # m21project
 GR process repo for my m21 project 
+### The Miro board I constantly refer to: 
+https://miro.com/app/board/uXjVPlPDJHE=/?share_link_id=975921519471 
+
 ### Planning: 
 + **Week 7 lit framework go wide** 
     - go wide, learn about chatbots, emulating humans, ethical consequences, research methods 
