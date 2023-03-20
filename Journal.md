@@ -21,6 +21,19 @@ Since I might be doing 4 prototypes instead of 1, I might have to update my goal
 
 Good day, hard work. 
 
+Interesting links from Max: 
+
+https://projects.id.tue.nl/id/QVIjAg
+
+Albrecht Schmidt TUM HCI
+
+Miro updates: 
+
+![image](https://user-images.githubusercontent.com/50365794/226445693-a27c2402-1a45-4952-8d98-525a05942ebf.png)
+
+![image](https://user-images.githubusercontent.com/50365794/226445776-6c1daf75-1eeb-446e-a07f-474f227fba1a.png)
+
+
 ## Entry 18/03/2023 ##
 
 Started where I left of yesterday. working out the Synethics. I started with the GAI and reality one. I thought of reality warping designs and what an interesting economy would be utilizing GAI. The idea rolled out remarkably easy. Sell people back their and non-excisting memories. Smart cities and personal data would easily provide enough data and GAI could do the rest in fabricating and mimicking memories. I like the intimacy of Please hold and the phone in general. I also thought about those 17th century shell stilllifes of people showing off exotic (sometimes non-existent shells). Et voilà. I like the disturbing loss of control over something as intimate as your memories, the economic idea behind it and the pun; shelling back your memories. 
