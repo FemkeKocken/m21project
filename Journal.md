@@ -1,3 +1,26 @@
+## Entry 20/03/2023 ##
+
+### ALWAYS SAVE EVERYTHING YOU WRITE BEFORE DOING SOMETHING ELSE, PIK ##
+I wrote this entire week planning this morning, and I swear it was really good, and then I did not upload it. Marvelous. Let this be a lesson, pik. 
+
+Anyway today I worked on the analogies further, almost completing the set. I had a meeting with Max, he likes what I am doing but I have to be mindffull of the story I'm telling. The project will probably the following shape: 
+explore the four direction I found, with four prototypes. 
+Make said prototypes and get them tested with users.
+Find what direction would be interesting to explore further (FMP) 
+
+For now, I have to make sure that all of my prototypes are well connected to the quadrants. I will do this tomorrow morning. In the afternoon I'm heading to the studio and see if anyone wants to chat about it. 
+
+### week planning ##
+- Tues: sort out concepts, gain some feedback
+- Wed: more concepting probable. Start on the set dressing activities for each quadrant 
+- Thurs: set dressing activities and concepting
+- Fri: concepting and feedback 
+- Sat: review feedback, set direction and start prepping for lo-fi making 
+
+Since I might be doing 4 prototypes instead of 1, I might have to update my goals and planning to reflect this. I think I will do this after I get green light from Rilla. 
+
+Good day, hard work. 
+
 ## Entry 18/03/2023 ##
 
 Started where I left of yesterday. working out the Synethics. I started with the GAI and reality one. I thought of reality warping designs and what an interesting economy would be utilizing GAI. The idea rolled out remarkably easy. Sell people back their and non-excisting memories. Smart cities and personal data would easily provide enough data and GAI could do the rest in fabricating and mimicking memories. I like the intimacy of Please hold and the phone in general. I also thought about those 17th century shell stilllifes of people showing off exotic (sometimes non-existent shells). Et voilà. I like the disturbing loss of control over something as intimate as your memories, the economic idea behind it and the pun; shelling back your memories. 
