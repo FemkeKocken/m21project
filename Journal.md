@@ -1,3 +1,10 @@
+## Entry 21/03/2023 ##
+
+Guess who did not do the thing she said she would do haha ha.. 
+I had some personal things come up, really tiring me out, if that's any of an excuse. 
+Tomorrow I will meet with Rilla though, so I can propose the whole thing to her. 
+I did see a cool video in which online feedback was also mentioned, this could be an idea as well. 
+
 ## Entry 20/03/2023 ##
 
 ### ALWAYS SAVE EVERYTHING YOU WRITE BEFORE DOING SOMETHING ELSE, PIK ##
