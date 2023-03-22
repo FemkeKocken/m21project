@@ -1,3 +1,11 @@
+## Entry 22/03/2023 ## 
+
+Green light on the proposed 4 quadrant design research on GAI and FMP plan. Very very happy with that. 
+
+Rilla made a joke/design possibility that made me laugh so hard noodles almost came out of my nose.
+
+Today was a good day. 
+
 ## Entry 21/03/2023 ##
 
 Guess who did not do the thing she said she would do haha ha.. 
