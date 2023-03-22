@@ -20,7 +20,8 @@ For now, I have to make sure that all of my prototypes are well connected to the
 ### week planning ##
 - Tues: sort out concepts, gain some feedback
 - Wed: more concepting probable. Start on the set dressing activities for each quadrant 
-- Thurs: set dressing activities and concepting
+- Thurs: set dressing activities and concepting (Collage, Storyboard, Written scenario, Define a concept, List of requirements, Experience prototyping, Brand DNA, 
+Making)
 - Fri: concepting and feedback 
 - Sat: review feedback, set direction and start prepping for lo-fi making 
 
