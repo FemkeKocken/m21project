@@ -1,3 +1,9 @@
+## Entry 24/03/2023 ##
+
+Alright so for concept definitioon we now have 4 collages and 4 scenarios, I want to record them as an added touch and to make everything less reading heavy. I plan to do this tomorrow as well as a list of requirements and the concept definitions. I think that should get me up to speed to start lofi making next week. I feel pretty confident about all of this. THis project is actually quite fun. 
+![image](https://user-images.githubusercontent.com/50365794/227599645-09e7ebf2-16a9-4cfa-82ac-5ba295f51f7e.png)
+the collages and scenarios 
+
 ## Entry 22/03/2023 ## 
 
 Green light on the proposed 4 quadrant design research on GAI and FMP plan. Very very happy with that. 
