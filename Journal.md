@@ -1,3 +1,46 @@
+## Update planning ##
+
+
++ **Week 13 lofi making of 4 concepts and gaining feedback**
+	- Function analysis
+	- Product concept evaluation
++ **Week 14 start making the first final prototype**
++ **Week 15 second prot** 
++ **Week 16 third prot**
++ **Week 17 Finish the final prototype**
+
++ **week 18 write about the prototypes, methodology, and set up user tests** 
+	- Writing 
+	- Planning 
+	- Revisit the: What are we going to do exactly section to see if it still holds 
++ **Week 19 data collection** 
+	- Observations 
+	- Interviews 
+	- Thing ethnography 
+	- Questionnaires 
+	- Magic machine workshops 
+	
++ **Week 20 Analysis**
+	- Cluster analysis 
++ **Week 21 Conclusion** 
+	- Write down preliminary conclusions 
+	- catch up on things I might be lagging on 
++ **Week 22 report**
+	- Writing 
+	- Revisiting all the objectives 
+	- Reflect on lessons learned 
++ **Week 23 demo day (demo day materials and report)**
+	- Making video, poster, texts and pitch 
+	- Writing report
++ **Week 24 report deadline** 
+	- Finish report 
+	- Reflect 
+	- Prepare answers for FMP questions
+	- Start presentation
++ **Week 25  presentation week** 
+	- Present 
+
+
 ## Entry 27/03/2023 ##
 
 Looks like Github is back on! Huzza. 
