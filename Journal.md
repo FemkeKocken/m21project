@@ -1,3 +1,13 @@
+## Entry updates until 30-03-2023 ##
+
+Hi so okay I've been away for a little bit. I had to do some emotional heavy lifting. Anyway, I'm back again. THis week was working on the lofi/nofi prototypes. I have two, which I am actually happy about. But I will need another two. I gues that's going to be my work today. I see if I can reflect on these tomorrow maybe and/or ask people for help on Monday. After that it'll be prototyping for the first prot. 
+
+![image](https://user-images.githubusercontent.com/50365794/229188371-69f48cc9-a3c6-4c70-a61f-1452031706a9.png)
+First nofi prot. An app that will match you to an AI that will interview you. Based on talk shows, people being bored, the deep desire to be in talk shows, boredom and Nintendogs. TUrned out way more Tindery than expected, but I don't mind that. It somewhat comments on the meaninglessness of it all, which is good. 
+
+![image](https://user-images.githubusercontent.com/50365794/229188750-540b0c21-bf79-4150-9a65-0a6be145edf2.png)
+AI regligion, Save your souls meets an app. To some extend it embodies the relationship that I want it to have, though religion can be a slippery slope and has to be handled respectfully. As well as the fact that religion can also work very calming and soothing for people. I have to make sure that I am designing the Bad-kind of religion here. Maybe I should mix in more aspects of dictators and emperors in?  
+
 ## Update planning ##
 
 
