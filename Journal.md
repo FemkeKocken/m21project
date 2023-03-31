@@ -1,3 +1,9 @@
+## Entry 31/03/2023 ##
+
+Plan for today is 2 more nofi sketches.
+GaR meeting went well. It would be interesting to see how designing the different prototypes would be using Github, as well as what I would do normally (note to self: figure out what I do normally). 
+Other than that it could be interesting to look into: Github wikis, tags, thinking of designed interactions as well as making a conceptual mapping to visualize the process of this project. 
+
 ## Entry updates until 30-03-2023 ##
 
 Hi so okay I've been away for a little bit. I had to do some emotional heavy lifting. Anyway, I'm back again. THis week was working on the lofi/nofi prototypes. I have two, which I am actually happy about. But I will need another two. I gues that's going to be my work today. I see if I can reflect on these tomorrow maybe and/or ask people for help on Monday. After that it'll be prototyping for the first prot. 
