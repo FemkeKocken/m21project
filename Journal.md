@@ -1,3 +1,14 @@
+## Entry 4/4/2023 ##
+
+I'm slacking and tired. Debating whether to take a day and increase the amount of project related stuff I need to do, or keep going and get less and less productive. 
+I want to eat sweets and roll up into a ball. 
+
+I might have a shot at the Mitacs scholarship this fall, if I play my cards right. 
+
+I think I might take tomorrow off. THis is going to mess with my schedule, I know. 
+
+If I can maybe orient myself on app prototyping programs I am allowed to call it a day. 
+
 ## Entry 31/03/2023 ##
 
 Plan for today is 2 more nofi sketches.
