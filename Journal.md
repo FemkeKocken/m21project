@@ -1,3 +1,10 @@
+## Entry 6/4/2023 ##
+Big ice storm, no power, exaushted and feeling like Montréal is trying to spit me oud just as hard as Vancouver. 
+
+There were some free brownies in the canteen and I've eaten too many. I'm nauseous now. 
+
+This is going SPECTACULAIR 
+
 ## Entry 4/4/2023 ##
 
 I'm slacking and tired. Debating whether to take a day and increase the amount of project related stuff I need to do, or keep going and get less and less productive. 
