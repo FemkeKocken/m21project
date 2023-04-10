@@ -1,3 +1,9 @@
+## Entry 10/4/2023 ##
+
+I think I have life under some control again. I am feeling a bit exhausted still. Though I feel like I can slowly start producing work. This week I want to see how ffar I can get with 2 prototypes. I am allowing myself for them to be as shitty as it will be. Just so that I have two things I could potentially test, instead of half worked out ides. I will keep progress on these prototypes in sepate logs. I think that will help sort things out. 
+
+So I want to work out the Save Your Soul prototype, I'd say that one is about 20% and the Late Night Show prototype, which is at 5%. I am going to be content if I will have a wireframe for both by the end of this week. 
+
 ## Entry 6/4/2023 ##
 Big ice storm, no power, exaushted and feeling like Montréal is trying to spit me oud just as hard as Vancouver. 
 
