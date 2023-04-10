@@ -1,3 +1,7 @@
+## Entry 10/4/2023 - end of day ##
+
+Did not do the Figma. But I did set up a Hook model and started an aesthetic exploration. I aim to work on a wireframe tomorrow though. I'm beginning to feel like I could maybe blur all four prototypes together and work on them at the same time. These could be my last word before an enourmous breakdown proofing me wrong. Anyways, I got some things done today, which is good enough. 
+
 ## Entry 10/4/2023 ##
 
 I think I have life under some control again. I am feeling a bit exhausted still. Though I feel like I can slowly start producing work. This week I want to see how ffar I can get with 2 prototypes. I am allowing myself for them to be as shitty as it will be. Just so that I have two things I could potentially test, instead of half worked out ides. I will keep progress on these prototypes in sepate logs. I think that will help sort things out. 
