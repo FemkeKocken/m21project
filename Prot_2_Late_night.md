@@ -1,3 +1,12 @@
+## entry 10/04/2023 concept, look & Feel ##
+
+How far do I want to lean into a Tinder-like flirtatuness? 
+
+I set up the hook model, it looks very promising. Boredom/attention always work very well to hook people. I should focus on making users feel like their world is in the app and the outside world is bleak and uninteresting. I tried working on a moodboard. But setling on an aesthetic is hard. I found some really disturbing good 90s computer aesthetic that I would love to use but not here though. This prototype should feel ike the only interesting thing in the world. 
+
+![image](https://user-images.githubusercontent.com/50365794/230995436-bb350354-9012-4548-a1a4-1a1543e8c27a.png)
+
+
 ## What I have so far ##
 
 ![image](https://user-images.githubusercontent.com/50365794/230911681-465e3b6d-ad4d-4fd5-a73f-4f40041fd7ac.png)
