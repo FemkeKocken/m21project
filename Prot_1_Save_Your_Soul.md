@@ -1,3 +1,8 @@
+## Entry 11/04/2023 ##
+
+Started the Figma file. THe plan for now is to first create the complete wireframe and all the screen nessesary. Then fill it in with flourishes and style. 
+Figma file: https://www.figma.com/file/vamWJ9hkQY7Q7NaR1wGBbg/Untitled?node-id=8%3A9&t=k3xr1UcejD3evU9N-1
+
 ## Starting material ##
 This will be the start of the prototype log for Save Your Sould (working title). 
 So far I have the following: 
