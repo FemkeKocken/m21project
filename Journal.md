@@ -6,6 +6,8 @@ Plan is to make that first and then fill it with the flourishes.
 
 I might see if I can do some work on the pother prototypes. I'll keep you posted. 
 
+I did the Hook models for the other 2 prototypes. This is starting to look good. 
+
 
 ## Entry 10/4/2023 - end of day ##
 
