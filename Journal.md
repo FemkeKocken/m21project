@@ -1,3 +1,12 @@
+## Entry 11/04/2023 ##
+
+I started the Figma file for Save Your Soul. Hurray! 
+
+Plan is to make that first and then fill it with the flourishes. 
+
+I might see if I can do some work on the pother prototypes. I'll keep you posted. 
+
+
 ## Entry 10/4/2023 - end of day ##
 
 Did not do the Figma. But I did set up a Hook model and started an aesthetic exploration. I aim to work on a wireframe tomorrow though. I'm beginning to feel like I could maybe blur all four prototypes together and work on them at the same time. These could be my last word before an enourmous breakdown proofing me wrong. Anyways, I got some things done today, which is good enough. 
