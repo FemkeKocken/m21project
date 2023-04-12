@@ -1,3 +1,24 @@
+## Entry 12/04/2023 ##
+Okay I guess I will have to start splitting my updates into four now. 
+
+- Save Your Soul 50%
+	- We have a basic wireframe now! 
+	- Next steps are going to be setting an aesthetic and building assets
+	- after that I will have to focus on implementing Figma features 
+
+- Late Night 30%
+	- Will start the wireframe ASAP 
+	- Have not explored much of the aesthetic yet 
+
+- Customer Support 10%
+	- Has a working Hook model 
+
+- Login 10%
+	- Has a working hook model 
+	- needs some quick drawings 
+	- after that the wire frame 
+
+
 ## Entry 11/04/2023 ##
 
 I started the Figma file for Save Your Soul. Hurray! 
