@@ -18,7 +18,7 @@ Okay I guess I will have to start splitting my updates into four now.
 	- needs some quick drawings 
 	- after that the wire frame 
 
-
+I have also learned, that I should use my focus hours (9:00-12:00) for the more technical building (with short breaks). So I can do more of the creative stuff later in the afternoon.
 ## Entry 11/04/2023 ##
 
 I started the Figma file for Save Your Soul. Hurray! 
