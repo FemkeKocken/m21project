@@ -1,3 +1,15 @@
+## Entry 12/04/2023
+
+I have something resembling a Figma wireframe! Huzzah! 
+https://www.figma.com/file/vamWJ9hkQY7Q7NaR1wGBbg/Save-Your-Soul?node-id=0-1&t=NPVK2E4WcXOxbyvE-0
+
+I'll present it to max tomorrow. I am also keeping track of a to do list in the Miro.
+![image](https://user-images.githubusercontent.com/50365794/231552241-493cbfa9-f21e-487d-bb7e-006d72b5eeb8.png)
+
+A feature that I like to explore would be the abstraction of certain actions, creating these customs that turn in rituals. As well as letting the consent button come back again and again to keep the focus on the relation between human and GAI. You are offering yourself to a higher power. You are powerless and will hope for the best outcome. 
+
+My plan is to present this frame to Max, see what he thinks and then start to explore the aesthetics before getting into the assets. I will also have to learn more about adding Figma features such as keyboards, animation and ads.
+
 ## Entry 11/04/2023 ##
 
 Started the Figma file. THe plan for now is to first create the complete wireframe and all the screen nessesary. Then fill it in with flourishes and style. 
