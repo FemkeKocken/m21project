@@ -1,3 +1,21 @@
+## Entry 14/04/2023 ##
+
+I have set up the Figma for late night so I guess my scores would be 
+- Save Your Soul 50%
+- Late Night 40%
+- Customer Support 10%
+- Login 10%
+	
+I found some more interesting links, that I'll put into the Miro board as well. 
+- https://www.wired.com/story/chatgpt-social-roles-psychology/
+- https://www.wired.com/story/ai-desperately-needs-global-oversight/
+- https://www.wired.com/story/chatgpt-jailbreak-generative-ai-hacking/#intcid=_wired-verso-hp-trending_46acb4cb-1cca-4709-bc26-c5e7a65f4941_popular4-1
+- https://www.wired.com/story/italy-ban-chatgpt-privacy-gdpr/#intcid=_wired-bottom-recirc_98d95259-9cef-445c-ac62-7c68f3d3447b_text2vec1-reranked-by-vidi
+
+Max thinks I'm on the right track which is good, I feel like I'm on the right track as well. Though it will be a damn race against the clock to get 4 demos that are presentable in 2 weeks time. I hope I can speed up the Figma process and get a system going to produce as much as possible.
+
+### Note to self: prioritize experiencable quantity of conceptual quality, while comunicating a clear vision ##  
+
 ## Entry 12/04/2023 ##
 Okay I guess I will have to start splitting my updates into four now. 
 
