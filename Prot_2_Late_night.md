@@ -1,3 +1,16 @@
+## Entry 14/042023 start of Figma ## 
+
+Alright so I started on the the Figma file. It's luckily coming together more quickly now compared to the last time. 
+
+![image](https://user-images.githubusercontent.com/50365794/232128323-77377489-9427-489b-840d-5776d3c0243f.png)
+
+
+Question that arrose until now: 
+  - design of the consent button, how internet inspired do I want them, as well as how explicit should they be 
+  - the data needed for the account set-up should be data used for customer targetting (a.i. age, nationality, religion) 
+  - what do I want the matching animation to look like. Dating app-like? Or something else? 
+
+
 ## entry 10/04/2023 concept, look & Feel ##
 
 How far do I want to lean into a Tinder-like flirtatuness? 
