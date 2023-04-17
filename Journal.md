@@ -1,3 +1,11 @@
+## Entry 17/04/2023 ##
+
+Start of week 
+
+So this week is going to be building week. Maybe as a goal I would like to get to the point of having wireframes for all 4 prots. That way, I have one week left for aesthetic sauce. After that Ibelieve I have a week to set up for usertests, so worst case scenario, I could use some of that time to finalize the prototypes as well. 
+If the average wireframe takes 2 days, I could finish Late Night today, and the other two by the end of this week. This excludes time to make the first sketches though. I would like to squeeze those in there as well, but I'm not sure how just yet.. 
+
+
 ## Entry 14/04/2023 ##
 
 I have set up the Figma for late night so I guess my scores would be 
