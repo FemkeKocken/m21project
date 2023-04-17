@@ -10,4 +10,6 @@ I am currently working on the no-fi wireframe. THe concept should centre on spar
 
 Maybe because you are getting hacked? 
 
-COuld be a good scary concept. Somebody hacking into your reality. Give me your money, or I'll end your 'life as you know it' 
+### Could be a good scary concept. Somebody hacking into your reality. Give me your money, or I'll end your 'life as you know it' ###
+
+### What does getting hacked look like? ###
