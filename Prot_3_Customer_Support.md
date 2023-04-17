@@ -13,3 +13,7 @@ Maybe because you are getting hacked?
 ### Could be a good scary concept. Somebody hacking into your reality. Give me your money, or I'll end your 'life as you know it' ###
 
 ### What does getting hacked look like? ###
+
+![E3B7A364-5B5E-46B8-82F8-D2E4B0430B11 (1)](https://user-images.githubusercontent.com/50365794/232526405-9587085d-b7b1-4494-a5dd-a3207130c05e.png)
+
+This no fi board helped in designing the experience of Customer Support. I think this should be about getting hacked/digitally robbed. It should feel a bit thriller like 
