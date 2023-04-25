@@ -1,3 +1,22 @@
+## Entry 25/04/2023 ##
+
+SO I'm in Vancouver now, visiting friends and also doing a trial run of work remotely. I think it is going somewhat well. But I will have to proof to be productive while getting to enjoy the city as well. THat's going to be the tricky part. 
+
+On the plane here I did a crunch of basically doing an entire week's worth of work on one plane ride. The tirck there was to combine the unpleasentness of the plane, with work sprints and then reward myself with watching parts of a movie (I watched Cloud Atlas, if you care to know).  
+
+Anyway. The goal for this week was to finalize all four prototypes. I'm not sure if I can do it. But let's see. 
+
+### To do this week: ###
+ - finalize the fourth wireframe 
+ - take stock of the prototypes and list the assest that I need 
+ - watch a tutorial on the assests 
+ - do 2 aesthetic explorations per prototype 
+ - curn out assets 
+ - upload assests to the figma prototypes 
+ - finalize the prototypes 
+
+I hope I can finalize the fourth wireframe today, watch a tutorial, take stock and maybe start the asesthic explorations
+
 ## Entry 17/04/2023 ##
 
 Start of week 
