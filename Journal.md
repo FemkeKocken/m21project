@@ -1,3 +1,7 @@
+## Entry 26/04/2023 ##
+
+Haha I didn't do anything I said I would do. For I am a self sabotaging baby. However, I did do something somewhat useful. I started writing the methods sections. Maybe If I can hurry through that, I will have some more time next week to work on the assets. I think it's becaus I'm nervous because it's new and I don't know how hard it is. The writing however is going pretty okay. 
+
 ## Entry 25/04/2023 ##
 
 SO I'm in Vancouver now, visiting friends and also doing a trial run of work remotely. I think it is going somewhat well. But I will have to proof to be productive while getting to enjoy the city as well. THat's going to be the tricky part. 
