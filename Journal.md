@@ -1,3 +1,20 @@
+## Entry 02/05/2023 ##
+
+Okay so we're back in Montréal. I did not really do enough. I guess that I now know I shouldnt really push myself to do completely new things while traveling and being out and about. No regrets though. I had to catch up with some life. I have some part of the methodology written down. I'd say it's about 40% of the methodology. By the original plan that should be up to a draft by the end of the week, as well as all the prototypes finished. It's time to hurry the fuck up and prioritize. 
+
+### To Do ### 
+ - 1 get the prototypes done and over with 
+    - watch some tutorials on Figma 
+    - skip the aesthetic exploration and just settle on 4 vibes already 
+    - half ass the prots 
+ - 2 write 
+    - what did I do and why? 
+    - major decisions and reasoning 
+    - have a draft by the end of this week 
+
+Okay I might take Saturday to write. I think I should be able to cram it into one day. Maybe I should do meditation and short walks inbetween work sprints. It either that or enough ritalin to kill a fucking horse. He Ho let's go. 
+
+
 ## Entry 26/04/2023 ##
 
 Haha I didn't do anything I said I would do. For I am a self sabotaging baby. However, I did do something somewhat useful. I started writing the methods sections. Maybe If I can hurry through that, I will have some more time next week to work on the assets. I think it's becaus I'm nervous because it's new and I don't know how hard it is. The writing however is going pretty okay. 
