@@ -39,7 +39,9 @@ Product expresion Bridging the gap between the symbolic and the concrete
 Page 161 design guide
 
 **GAI as a part of your identity**
+
 This relationship is centered in a world where GAI has been implemented to the extent that it has now become a fundamental part of how we can identify ourselves. Humanity has become the sum of its physical and, more importantly, digital parts. This is based on technologies that become part of the human users; these include spelling checkers as well as devices that help in maintaining [correct term needed] bloodsugar levels in diabetis patients. These technologies post for philosophical questions surrounding trans-humanism, where it is interesting to explore the blurred lines between the tool or technology and the user. 
+
 
 In a first design exploration I developed a concept around GAI as a tool that has replaced all other tool; The Final Product. It would take the shape of a futuristic cap that would let the participant listen to the audio of the set up of this product. While I enjoyed the idea of exploring the border of where the human end and the technology begins. This concept was set in a future too distant to come across as believable. 
 
@@ -48,6 +50,15 @@ Something much more relatable is the increasing difficulty to log in, to proof r
 [Look and feel of log-in]
 
 **GAI as part of reality**
+
+This prototype centres on the relationship humans have towars GAI as a fully implemented part of reality, where the lines between generated and non-generated have become in distuinigasble from eachother. This concept is firmly rooted in Hyper reality, where it has become unclear what, if and where the origin from the world perceived comes from. 
+
+As a first exploration I taught up the concept of memory shelling. A speculative business that would use the collective sum of data of an individual to start generating memories, and selling them to customers. It combined the changing nature of something as intimate as a memory, and quantify it through generative technology. The strongest part of this concept was how it showcased the nuanced nature of what is real and what is considered ‘real’. However, since I would not be able to accurately provide the experience that this concept provokes, I decided to take the essence of this concept, and apply it to a smaller set up. 
+
+The soundscape and the collage that I made for this prototype both very much centered on GAI beign incorporated into reality and a distrust towards it. I thought that one way of demonstrating this would be by providing an experience based on reality breaking down. 
+
+Experiences of technology breaking down often associate with calls to help centers and customer service, both increasingly run by GAI programs as well. This formed the basis of Customer Service. An app that provides service for when reality starts breaking down. In this app the user, is trying to communicate to the service that their reality is glitching out, through broken screens it becomes clear that this is because there are hackers that are trying to get your information and steal your identity.
+[Look and feel]
 
 **GAI as a caregiver** 
 **GAI as a authoritarian force**
