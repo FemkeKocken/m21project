@@ -1,5 +1,15 @@
 ## Entry 02/05/2023 ##
 
+So well, that went remarkibly bad. I am teribly stuck in the phase of: I have put to bar too high, my tastes are better than my skills, I don't want to do it and I am getting tired of this project already. I spoke to Rilla and Max and I just need to get the point across. No need for dramatics or flair or whatever. Just have something. I'll take off tomorrow and then work on it on Sunday. 
+
+I feel like I am lossing a lot of time and I am stress eating as well (very bad, stop it) 
+
+I need to re do the planning as well. THings are going to get tight but not impossible. Resist the urge to ask for extra time; coaches are going to be tired and harder on me, I am going to be more tired and have less time to recover. Get it over with. THis is like the last hour of being in a plane some end is in sight but this is also going to be the real grind. 
+
+oh, I did finish a one page draft on the methodology which is good. As for personal reflection: I think the Save Your Sould and Log In are the stronger ones of the four. I like them because they bring into question what it is to be human while being enriched with GAI. Where do you stop and where does the machine begin, and vice versa. For me personally that would be a cool direction to go in for my FMP
+
+## Entry 02/05/2023 ##
+
 Okay so we're back in Montréal. I did not really do enough. I guess that I now know I shouldnt really push myself to do completely new things while traveling and being out and about. No regrets though. I had to catch up with some life. I have some part of the methodology written down. I'd say it's about 40% of the methodology. By the original plan that should be up to a draft by the end of the week, as well as all the prototypes finished. It's time to hurry the fuck up and prioritize. 
 
 ### To Do ### 
