@@ -1,3 +1,15 @@
+## Entry 13/05/2023 ##
+
+Everything went to shit, and I prcrastinated too long. What helped was to start planning usertests to force me to work. THat's what I'm doing now. Save Your Soul is done.
+
+Some notes on the design: 
+ - blue screen of death 
+ - pixellook for computer look 
+ - attempt at a repetative patern as a flourish 
+ - I had to change the movement a bit as it just wasnt in my skill to do it the way I wanted to 
+	
+I need to do one more for today
+
 ## Entry 02/05/2023 ##
 
 So well, that went remarkibly bad. I am teribly stuck in the phase of: I have put to bar too high, my tastes are better than my skills, I don't want to do it and I am getting tired of this project already. I spoke to Rilla and Max and I just need to get the point across. No need for dramatics or flair or whatever. Just have something. I'll take off tomorrow and then work on it on Sunday. 
