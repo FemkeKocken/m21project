@@ -1,3 +1,14 @@
+## Second Entry 13/05/2023 ##
+
+I did it. I finished the prototype for log in. Diamond are made under pressure. Two to go, for tomorrow. 
+Important changes to the prototoype for log-in: 
+  - deleted the driver licence, wasn't able to mimick that reasonably 
+  - moved the recovery email up to before the voice recognition 
+  - moved the 2FA up after the email and before the voice auto (this was the final one in the line in the wireframe) 
+  - added that the screens become darker and darker 
+  
+  I hope I can kick ass tomorrow as well. 
+
 ## Entry 13/05/2023 ##
 
 Everything went to shit, and I prcrastinated too long. What helped was to start planning usertests to force me to work. THat's what I'm doing now. Save Your Soul is done.
