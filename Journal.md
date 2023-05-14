@@ -1,3 +1,13 @@
+## Entry 14/05/2023 ##
+
+Day 2 of my marathon. Late Night is done. I'ms actually surprised with how well it looks. 
+Important design notes: 
+ - Moved the assumptions of hobbies forward to the profile comletion to give feeling helplessness 
+ - coloursheme/look of a dating app with abit of a boudoir/sex colourscheme 
+ - had to shorten the coversations due to lack of skill and time 
+ - logo is two icons mergerd together 
+ - added some more puns/provocations
+
 ## Second Entry 13/05/2023 ##
 
 I did it. I finished the prototype for log in. Diamond are made under pressure. Two to go, for tomorrow. 
