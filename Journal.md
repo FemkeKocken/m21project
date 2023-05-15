@@ -1,5 +1,17 @@
 ## Entry 14/05/2023 ##
 
+Plan for next week: 
+ - 10 user test 
+ - collect feedback 
+ - start cluster analysis 
+ - in the meantime write about the methodology 
+ - get some early conclusions 
+ - change design 
+ - formalize the analysis
+ 
+
+## Entry 14/05/2023 ##
+
 I finished up customer support by half assing it. I think i does not get the story across very clearly right now. But I'm just really tired. Maybe I'll get bac to it tomorrow. 
 updates for now: 
  - took out the consent questions
