@@ -1,5 +1,16 @@
 ## Entry 14/05/2023 ##
 
+I finished up customer support by half assing it. I think i does not get the story across very clearly right now. But I'm just really tired. Maybe I'll get bac to it tomorrow. 
+updates for now: 
+ - took out the consent questions
+ - took out the 'hard'hacking feeling 
+ - more emphasis on cyber crime 
+ - look and feel of a customer support, friendly and sterily 
+ - important to blend suspision with lack of urgency 
+ 
+
+## Entry 14/05/2023 ##
+
 Day 2 of my marathon. Late Night is done. I'ms actually surprised with how well it looks. 
 Important design notes: 
  - Moved the assumptions of hobbies forward to the profile comletion to give feeling helplessness 
