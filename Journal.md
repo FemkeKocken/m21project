@@ -2,6 +2,17 @@
 
 Okay I'm at about 9 usertests right now, I could have 2 more come in. Cool. I have some preliminary results. I think I know where I want to take this. Combining Log In and Late Night into a Heidegger's hammer that is slowly slipping away from you. Something about creating your identity online and it then slowly taking agency away from you, generating itself and finally shutting you out completely. Like creating a daugher cell. I'll come back in a minute to update my planning and set goals for this week. 
 
+### looks like this bitch predicted that exactly this would happen and planned a catch up week. Well played, Femke from the past, well played. ###
+
+Goals for this week: 
+ - finish up the usertests 
+ - figure out how to organize the data and how to present it 
+ - write down the preliminary results 
+ - finsh up the draft methodology 
+ - start draft on results 
+
+okay 5 things to do, 5 days in the week. Should be within my power. He ho let's go. 
+
 
 ## Entry 14/05/2023 ##
 
